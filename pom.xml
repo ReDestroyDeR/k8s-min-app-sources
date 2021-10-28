@@ -10,7 +10,7 @@
     </parent>
     <groupId>ru.otus.redestroyder</groupId>
     <artifactId>KubernetesMinimalService</artifactId>
-    <version>0.0.1-BETA</version>
+    <version>0.0.1-STABLE</version>
     <name>KubernetesMinimalService</name>
     <description>KubernetesMinimalService</description>
     <properties>
